@@ -1,0 +1,4 @@
+enum CardTypeEnum {
+  virtual,
+  physical,
+}
